@@ -1,0 +1,1 @@
+INSERT INTO raw_types (name) VALUES ('Шрот'), ('Соя'), ('Жмых');

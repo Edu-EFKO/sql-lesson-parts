@@ -1,0 +1,1 @@
+INSERT INTO tonnages (value) VALUES (1), (5), (10), (15)

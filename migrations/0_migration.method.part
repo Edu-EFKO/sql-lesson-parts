@@ -1,0 +1,6 @@
+    public function safeUp()
+    {
+        $this->execute("
+        ...
+        ");
+    }
